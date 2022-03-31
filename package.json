@@ -12,8 +12,10 @@
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
     "@mui/material": "latest",
+    "axios": "0.26.1",
     "react": "latest",
     "react-dom": "latest",
+    "react-infinite-scroll-component": "6.1.0",
     "react-scripts": "latest"
   },
   "keywords": [],
